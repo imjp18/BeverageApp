@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">JayeshkumarAssignment1</string>
+        <string name="hint_name">Name</string>
+        <string name="hint_email">Email</string>
+        <string name="hint_phone">Phone</string>
+        <string name="type_of_beverage">Type of Beverage</string>
+        <string name="tea">Tea</string>
+        <string name="coffee">Coffee</string>
+        <string name="additionals">Additionals</string>
+        <string name="milk">Milk</string>
+        <string name="sugar">Sugar</string>
+        <string name="size_of_beverage">Size of Beverage</string>
+        <string name="small">Small</string>
+        <string name="medium">Medium</string>
+        <string name="large">Large</string>
+        <string name="region">Region</string>
+        <string name="select_date">Select Date</string>
+        <string name="print_bill">Print Bill</string>
+
+        <string-array name="coffee_flavours">
+            <item>Select a flavor</item>
+            <item>None</item>
+            <item>Pumpkin Spice</item>
+            <item>Chocolate</item>
+        </string-array>
+
+        <string-array name="tea_flavours">
+            <item>Select a flavor</item>
+            <item>None</item>
+            <item>Lemon</item>
+            <item>Ginger</item>
+        </string-array>
+
+        <string-array name="regions">
+            <item>Waterloo</item>
+            <item>London</item>
+            <item>Milton</item>
+            <item>Mississauga</item>
+        </string-array>
+
+        <string-array name="Waterloo">
+            <item>65 University Ave E</item>
+            <item>415 King St</item>
+            <item>585 Weber St</item>
+        </string-array>
+        <string-array name="London">
+            <item>616 Wharncliffe Rd</item>
+            <item>1885 Huron St</item>
+            <item>670 Wonderland Road</item>
+            <item>1181 Highbury Ave</item>
+        </string-array>
+        <string-array name="Milton">
+            <item>900 Steeles Ave</item>
+            <item>80 Market Dr</item>
+            <item>820 Main St</item>
+        </string-array>
+        <string-array name="Mississauga">
+            <item>144 Dundas St</item>
+            <item>30 Eglinton Ave</item>
+            <item>6075 Creditview Rd</item>
+        </string-array>
+
+    </resources>
+
